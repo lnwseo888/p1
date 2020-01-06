@@ -3,9 +3,7 @@ Plugin Name
 
 What goes here is the description. Please don't make it too long. It can contain basic *styling*, **styling**, etc. 
 
-If an image is found within the description, that becomes the screenshot of the plugin. Screenshots are optional but encouraged, given the plugin has some visual interaction. The screenshot can be of any size, but try to keep it of about 200x100.
-
-![Screenshot](http://url_to_project_screenshot)
+If an image is found within the description, that becomes the screenshot of the plugin. Screenshots are optional but encouraged, given the plugin has some visual interaction. The screenshot can be of any size, but try to keep it of about 200x100. 
 
 How to use
 ----------
@@ -24,11 +22,7 @@ Screenshots
 -----------
 
 This section is optional, but encouraged if the plugin affords it. Just a list of images, one per line. We do the resizing, so use actual size screenshots.
-
-![Screenshot 1](http://url_to_project_screenshot)
-![Screenshot 2](http://url_to_project_screenshot)
-![Screenshot 3](http://url_to_project_screenshot)
-![Screenshot 4](http://url_to_project_screenshot)
+ 
 
 Arbitrary section
 -----------------
